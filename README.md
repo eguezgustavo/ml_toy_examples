@@ -3,3 +3,4 @@ While trying to understand some machine learning concepts and tools it is import
 
 1. [PCA Analysis](pca_analysis/README.md)
 2. [SVM Classifier](support_vector_classifier/README.md)
+3. [Decision Tree Classifier](decision_tree_classifier/README.md)
